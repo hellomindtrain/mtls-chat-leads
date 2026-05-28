@@ -2,7 +2,7 @@
 /**
  * Plugin Name: MTLS Chat Leads
  * Description: A lightweight and essential click-to-chat button for your website.
- * Version:     1.0.0
+ * Version:     1.0.2
  * Author:      MTLS
  * License:     GPLv2 or later
  * Text Domain: mtls-chat-leads
