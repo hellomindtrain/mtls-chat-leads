@@ -1,6 +1,9 @@
 name: WordPress Plugin Deploy
 
 on:
+  push:
+    tags:
+      - "*"
   workflow_dispatch:
 
 jobs:
