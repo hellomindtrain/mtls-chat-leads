@@ -32,3 +32,6 @@ For advanced features like Page-wise lead tracking, date filters, and detailed a
 
 = 1.0.0 =
 * Initial release.
+== Screenshots ==
+
+1. This is the main dashboard of MTLS Chat Leads.
